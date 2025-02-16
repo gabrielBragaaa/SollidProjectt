@@ -101,7 +101,8 @@ nav {
 }
 
 .carousel-inner {
-  height: 100vh;
+  max-height: 400px;
+  height: 100vh; 
   /* Aumenta a altura do carrossel */
 }
 

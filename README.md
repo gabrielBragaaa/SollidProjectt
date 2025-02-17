@@ -1,7 +1,7 @@
 ﻿# SollidProject
 Descrição do Projeto - Site de Vendas
 
-Este projeto consiste no desenvolvimento de um site de vendas para a empresa [Nome da Empresa], com o objetivo de proporcionar uma experiência intuitiva e eficiente na exibição e comercialização de produtos.
+Este projeto consiste no desenvolvimento de um site de vendas para a empresa SOLLID, com o objetivo de proporcionar uma experiência intuitiva e eficiente na exibição e comercialização de produtos.
 
 🛒 Funcionalidades Principais
 

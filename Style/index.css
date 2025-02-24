@@ -61,7 +61,7 @@ nav {
 }
 
 .btn-bd-primary {
-  --bd-violet-bg: #712cf9;
+  --bd-violet-bg: #ffffff;
   --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
 
   --bs-btn-font-weight: 600;
@@ -76,9 +76,9 @@ nav {
   --bs-btn-active-bg: #0732f0;
   --bs-btn-active-border-color: #5a23c8;
 }
-
+/* Cor do Botão do Chat */
 #bd-theme {
-  background-color: #4946fa;
+  background-color: #ffffff;
 }
 
 .bd-mode-toggle {
@@ -202,7 +202,7 @@ h2{
  /* chat bot */
  .dropdown-menu {
   border-radius: 12px;
-  background-color: #fff;
+  background-color: #1f008d;
 }
 
 #chat-box {
